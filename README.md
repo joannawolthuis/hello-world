@@ -1,2 +1,3 @@
 # hello-world
-Tutorial repository!
+Hello! My name is Joanna, and I am a MSc student. 
+
